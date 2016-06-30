@@ -1,0 +1,28 @@
+{
+  "name": "mikser-sass",
+  "version": "0.0.2",
+  "description": "Real-time Sass plugin for Mikser.",
+  "main": "index.js",
+  "keywords": [
+    "sass",
+    "plugin",
+    "mikser"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "express": "^4.14.0",
+    "fs-extra-promise": "^0.3.1",
+    "glob": "^7.0.5",
+    "glob-promise": "^1.0.6",
+    "lodash": "^4.13.1",
+    "minimatch": "^3.0.2",
+    "node-sass": "^3.8.0",
+    "node.extend": "^1.1.5"
+  },
+  "author": "Almero Digital Marketing (http://almero.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almero-digital-marketing/mikser-sass.git"
+  },
+  "license": "MIT"
+}
